@@ -8,7 +8,7 @@
 
 - mvn install
 
-# How to run
+# Como Rodar
 
 > Execução dos CTs
 - A execução pode ser feita no package "tests" em /desafio_api_rest/src/test/java/tests/ApiTestsFilme.java
