@@ -2,7 +2,7 @@
 
 # Instalação
 
-- Clonar o repositorio em sua máquina usando `https://github.com/fellipeconforto94/desafio_web.git`
+- Clonar o repositorio em sua máquina usando `https://github.com/fellipeconforto94/desafio_api_rest.git`
 
 - Instalar todas as dependencias no pom.xml(Rest Assured, Junit, ...)
 
