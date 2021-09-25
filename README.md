@@ -1,4 +1,4 @@
-# desafio_api_rest
+# automation_api_rest
 
 # Instalação
 
